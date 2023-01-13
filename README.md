@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tarlan</h1>
 <h3 align="center">I'm a full-stack .NET Core developer 👨‍💻</h3>
-![Black Minimalist Corporate Business Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/116623399/212419471-70bb808b-7b9f-4f21-a204-232bee313f12.png)
+
+![Black Minimalist Corporate Business Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/116623399/212419538-ab6cca2a-0411-4b9e-90fc-f191e58d84bd.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarlan-code&label=Profile%20views&color=0e75b6&style=flat" alt="tarlan-code" /> </p>
 
 - 🔭 I’m currently working on **E-commerce webpage CRUD**
