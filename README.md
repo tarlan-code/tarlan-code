@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/fife/AAbDypA19Ci42-1cElSlKq4iEDtjnudZCkdUKgiMhDn9-_vx9-svfhELwydUFndjDiLr3EAcPKnHgZhn6d1d_YVovu1Ka4U_VMNjQYE11CR9CkUDff_NZOJPop7zybChcVRa3ftDS7rTk99-QnE_zGcv_-d_sgeNWE3YTrv2q91E-Yuo232hGyWsH44bYtpN6OzCN-9Novzg19pVFCvotmHSb1lDueCnpg4QZ9nTsvd4KRRJmHCxc7DnVqPai4tiWitr2HozaPlW1T8cmDJXX6lDJ0ICnEI__82r_OL9lOm6Wepm5UV7xjVhsDJycpc9h05iWu8NZFR4XjU3982ykjoMXovy4c1DZtZ4WDi3qwXRdeRbvV9iguWJhI81TrWJPe83w0GuA9nQ30CK_MbYBvvcJOtSyHPMkCssbixbqpshbgqiprpfS1FOFRPiwD7s-0nlrLtqwP6h1Dpu28OjPgfcIifU3mruFjxBDY9TRWzWm64VlkcRGhkicFEczO5w-pXWH7ET7tUYW4B_A57yYdMCe_-auiDSH7ndsam4EA_IyvPrSOyPi63cr2GF1g6q8Lv5eAkI-34kmtZDabXKaEzt-SgPiWB5tT14kF_lClpQusYLOTKiJ5y_FWf6I82NvOUSwMNb1hHTOPfTqB1JBZ-N4csdWeatNrGNfaX1f3omvqP7kaTbj2PL8ZEYlZeWjCQGGZMquwJBcL9yjsc68ZyLGO-MDCn40cf9pl-ifXJuhx_x4k_-uewCTTmQeazBet1u30WLVMk4RBPyoXsqsTztbYKbIJ86ELCerkU-O16jW0c1p924i1HMaXTESivNuDvTrEUIOCRkA5BL8XbW08S0q_vgubPL9lemfVbcdI2-xkIG18huZh1sYfVZmuG-aRvPhFsdW5x0qhi6A9DTkZeNp4mT37f_ce-tqBoz2Ei8orGaPenrGB-oYwYVgQFBhrKQZcJUTuwC1ZCaWgvopsb1A-h0KR12z-GvJRhtK6bXbsyX6SLdDbRNuQ2O6f8tWjtmFroqxQSHEApVKg43_25KZWWCcfzrO-ZizIgm_pr_0NjVePWO4C4RxaT4-ggjijCjwiVlpQsWOmNNujT3ugWKRCNn8aLxkqJX-Is3PNTxhEJilfEBd0Mngqe7Ed1MyumcjH9gCGL04_dx1RFhA8nrxXfE1J3mkeDxggjdyuF8wX89UiGhfMKPQLdlxqqPnx4af6F1ZOFMIWUydiySqmDqiwij09UejBN8OO70v2fgUg9cN-wQ8dpfRBTp2tTHDgbcHsD2XHEeUyr_-JBMBD9eljMt_S5mm01QUUgHxzwiWto1aPZqgS34WNxu9PVRBveHYefGIENfWlXNGG0_O12NgugEttPuDaRZaJU_lnHIC4VCFtsgOqkQ259miZYOMoXs9lV7-Y1VeGkAr6ZSVqR7KZtR5gQWz9vgMzrdIilZ8PL3QqQvZ1NW9yN5Ez4Nf9QjYNX-TT508sPWO7W-A_htYw=w1920-h860" align="left" height="" width="600" />  
+<img src="https://drive.google.com/uc?export=view&id=1Noyx9ere5N7araMulfsUcCWIeqzVHY1T" align="left" height="" width="600" />  
   
 
 <div align="center">
@@ -112,6 +112,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
