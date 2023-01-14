@@ -28,9 +28,11 @@
 <h3 align="left">Support:</h3>
 <p"><a href="https://www.buymeacoffee.com/tarlan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tarlan" /></a></p><br><br>
 <div style="display: flex;">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarlan-code&show_icons=true&locale=en&layout=compact" alt="tarlan-code" /></p>
+  
+
+ <p><img align="left" src="https://github-readme-stats-tarlan-code.vercel.app/api/top-langs?username=tarlan-code&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="tarlan-code" /></p>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarlan-code&show_icons=true&locale=en" alt="tarlan-code" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-tarlan-code.vercel.app/api?username=tarlan-code&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="tarlan-code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarlan-code&" alt="tarlan-code" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarlan-code&theme=dark" alt="tarlan-code" /></p>
