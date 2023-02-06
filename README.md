@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarlan-code&label=Profile%20views&color=0e75b6&style=flat" alt="tarlan-code" /> </p>
 
-- 🔭 I’m currently working on **E-commerce webpage CRUD**
+- 🔭 I’m currently working on **Social Media ASP.NET MVC**
 
 - 🌱 I’m currently learning **Entity framework**
 
