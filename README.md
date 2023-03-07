@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Social Media ASP.NET MVC**
 
-- 🌱 I’m currently learning **Entity framework**
+- 🌱 I’m currently learning **API in .NET**
 
 - 💬 Ask me about **C#,Python,HTML,CSS**
 
