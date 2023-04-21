@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarlan-code&label=Profile%20views&color=0e75b6&style=flat" alt="tarlan-code" /> </p>
 
-- 🔭 I’m currently working on **Social Media ASP.NET MVC**
+- 🔭 I’m currently working on **.NET Core framework**
 
-- 🌱 I’m currently learning **API in .NET**
+- 🌱 I’m currently learning **API in .NET Core**
 
 - 💬 Ask me about **C#,Python,HTML,CSS**
 
