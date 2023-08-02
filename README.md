@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C#,Python,HTML,CSS**
 
-- 📫 How to reach me **heyderovtarlan@proton.me**
+- 📫 How to reach me **heyderovtarlan@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
