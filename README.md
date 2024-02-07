@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarlan</h1>
-<h3 align="center">I'm a full-stack .NET Core developer 👨‍💻</h3>
+<h3 align="center">I'm a software developer 👨‍💻</h3>
 
 ![Black Minimalist Corporate Business Personal Profile LinkedIn Banner (1)](https://github.com/tarlan-code/tarlan-code/assets/116623399/77ea53d8-41a4-4443-a133-601204a2bf94)
 
