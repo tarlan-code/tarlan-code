@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **.NET Core framework**
 
-- 🌱 I’m currently learning **API in .NET Core**
-
-- 💬 Ask me about **C#,Python,HTML,CSS**
+- 💬 Ask me about **C#,Python,HTML,CSS and etc.**
 
 - 📫 How to reach me **heyderovtarlan@gmail.com**
 
